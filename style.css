@@ -6,14 +6,13 @@
   font-family: "Poppins", roboto;
 }
 body {
-  background-color: #143559;
+  background-color: #001f4d;
 }
 .container {
-  background-color: #ffff;
+  background-color: #b3c7e6;
   font-size: 16px;
   padding: 3em 2em;
-  width: 35%; /* i learnt view width property*/
-  /* max-width: 32%; */
+  width: 35%; 
   position: absolute;
   top: 1em;
   left: 50%;
@@ -89,7 +88,7 @@ img {
 
 .recipe pre {
   font-size: 0.8rem;
-  white-space: pre-wrap; /* i applied new things hahahahah....*/
+  white-space: pre-wrap; 
   word-wrap: break-word;
   padding: 2.3em 1.2em 1.2em 1.2em;
 }
@@ -192,7 +191,7 @@ footer p{
     overflow: hidden;
     overflow-y: auto;
     font-size: 0.8rem;
-    white-space: pre-wrap; /* i applied new things hahahahah....*/
+    white-space: pre-wrap; 
     word-wrap: break-word;
     padding: 2.3em 1.3em 4em 1.3em;
   }
@@ -243,12 +242,12 @@ footer p{
     overflow: hidden;
     overflow-y: auto;
     font-size: 0.8rem;
-    white-space: pre-wrap; /* i applied new things hahahahah....*/
+    white-space: pre-wrap; 
     word-wrap: break-word;
     padding: 2.3em 1.3em 4em 1.3em;
   }
   footer p{
     display: none;
   }
-}
+} 
 
